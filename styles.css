@@ -424,6 +424,11 @@ th {
   font-weight: 800;
 }
 
+.mindmap-main-tree {
+  gap: 20px;
+  padding-left: 28px;
+}
+
 .mindmap-columns {
   display: grid;
   grid-template-columns: 1.3fr 0.8fr;
